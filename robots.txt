@@ -1,0 +1,3 @@
+# Static client preview with demo content: not for search engines.
+User-agent: *
+Disallow: /

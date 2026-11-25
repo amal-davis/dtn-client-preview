@@ -1,0 +1,4 @@
+:HL["/dtn-client-preview/academy/_next/static/chunks/0fqu9f17r2ehb.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
+0:{"b":"Sk2gDubZeTa-gEYAQRVRU","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

@@ -1,0 +1,35 @@
+2:"$Sreact.fragment"
+3:"/dtn-client-preview/_next/static/chunks/0nixhlvvqwyns.js"
+4:"/dtn-client-preview/_next/static/chunks/3ycpiwgnsdg12.js"
+5:"/dtn-client-preview/_next/static/chunks/3c7-kzs4hc7wc.js"
+6:"/dtn-client-preview/_next/static/chunks/0yg6vzhlaw1z2.js"
+7:"/dtn-client-preview/_next/static/chunks/3e78edpnkopue.js"
+8:"/dtn-client-preview/_next/static/chunks/1ehx0guhdwmk4.js"
+9:I[39756,["$3","$4","$5","$6","$7","$8"],"default"]
+a:I[37457,["$3","$4","$5","$6","$7","$8"],"default"]
+f:"/dtn-client-preview/_next/static/chunks/2azpo1z5ppajc.js"
+10:I[22016,["$3","$4","$5","$6","$7","$8","$f"],""]
+11:I[57019,["$3","$4","$5","$6","$7","$8","$f"],"default"]
+12:I[5014,["$3","$4","$5","$6","$7","$8","$f"],"default"]
+13:I[67475,["$3","$4","$5","$6","$7","$8","$f"],"PreviewSearch"]
+14:I[97367,["$3","$4","$5","$6","$7","$8"],"OutletBoundary"]
+15:"$Sreact.suspense"
+18:"ViewportBoundary"
+19:I[97367,["$3","$4","$5","$6","$7","$8"],"$18"]
+1a:"MetadataBoundary"
+1b:I[97367,["$3","$4","$5","$6","$7","$8"],"$1a"]
+1c:I[27201,["$3","$4","$5","$6","$7","$8"],"IconMark"]
+c:X
+c:C
+d:X
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"container-site pb-16","children":[["$","header",null,{"className":"flex flex-col gap-5 border-b border-border pb-6 md:pb-8","children":[["$","span",null,{"aria-hidden":true,"className":"h-1 w-full rounded-full bg-brand"}],["$","nav",null,{"lang":"en","aria-label":"Breadcrumb","className":"text-summary text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-2 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-2","children":[false,["$","$L10",null,{"href":"/","className":"hover:text-brand hover:underline","children":"Home"}]]}],["$","li","/search",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":"/"}],["$","$L10",null,{"href":"/search","className":"hover:text-brand hover:underline","children":"Search"}]]}]]}]}],["$","h1",null,{"className":"text-article-title-sm font-semibold text-ink md:text-article-title","children":"Search the news"}],["$","$L11",null,{"action":"/search","role":"search","className":"flex flex-col gap-4","children":[["$","div",null,{"className":"flex max-w-3xl gap-2","children":[["$","label",null,{"htmlFor":"search-q","className":"sr-only","children":"Search"}],["$","input","",{"id":"search-q","name":"q","type":"search","defaultValue":"","placeholder":"Search in English or മലയാളം…","autoComplete":"off","enterKeyHint":"search","maxLength":200,"className":"h-12 min-w-0 flex-1 rounded-card border border-border bg-surface px-4 text-body text-ink placeholder:text-subtle focus:border-ink focus:outline-none"}],["$","button",null,{"type":"submit","className":"inline-flex h-12 shrink-0 items-center gap-2 rounded-card bg-brand px-5 text-body font-semibold text-surface hover:bg-brand-strong","children":[["$","$L12",null,{"icon":{"name":"search","size":24,"node":[["path",{"d":"m21 21-4.34-4.34","key":"14j7rj"}],["circle",{"cx":"11","cy":"11","r":"8","key":"4ej97u"}]]},"className":"size-4","aria-hidden":true}],["$","span",null,{"className":"hidden sm:inline","children":"Search"}],["$","span",null,{"className":"sr-only sm:hidden","children":"Search"}]]}]]}],null,"$undefined"]}]]}],["$","$L13",null,{}]]}],[["$","script","script-0",{"src":"/dtn-client-preview/_next/static/chunks/2azpo1z5ppajc.js","async":true}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":"$@17","v":null,"s":"$d"}}]]
+1:[["children",{"s":"search","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@b","v":"$c","s":"$d"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#050e1a"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Search | Digital Truth News Network 24/7"}],["$","meta","1",{"name":"description","content":"News you can trust, 24/7"}],["$","meta","2",{"name":"application-name","content":"Digital Truth News Network 24/7"}],["$","link","3",{"rel":"manifest","href":"/dtn-client-preview/manifest.webmanifest"}],["$","meta","4",{"name":"robots","content":"noindex, follow"}],["$","link","5",{"rel":"canonical","href":"https://amal-davis.github.io/dtn-client-preview/search/"}],["$","meta","6",{"property":"og:title","content":"Search | Digital Truth News Network 24/7"}],["$","meta","7",{"property":"og:description","content":"News you can trust, 24/7"}],["$","meta","8",{"property":"og:image","content":"https://amal-davis.github.io/dtn-client-preview/brand/default-share.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Search | Digital Truth News Network 24/7"}],["$","meta","13",{"name":"twitter:description","content":"News you can trust, 24/7"}],["$","meta","14",{"name":"twitter:image","content":"https://amal-davis.github.io/dtn-client-preview/brand/default-share.jpg"}],["$","link","15",{"rel":"icon","href":"/dtn-client-preview/favicon.ico?v=b2c10a5016","sizes":"16x16 32x32 48x48"}],["$","link","16",{"rel":"icon","href":"/dtn-client-preview/icons/icon-32.png?v=b2c10a5016","sizes":"32x32","type":"image/png"}],["$","link","17",{"rel":"icon","href":"/dtn-client-preview/icons/icon-192.png?v=b2c10a5016","sizes":"192x192","type":"image/png"}],["$","link","18",{"rel":"apple-touch-icon","href":"/dtn-client-preview/icons/apple-touch-icon.png?v=b2c10a5016","sizes":"180x180","type":"image/png"}],["$","$L1c","19",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$d"}},"a":"$@1e","u":"$@1f","b":"X6GDVS_dH7zCosJlO4jHf"}
+16:null
+1f:true
+d:30
+d:C
+1e:0
+b:"$undefined"
+1d:"$undefined"
+17:"$undefined"

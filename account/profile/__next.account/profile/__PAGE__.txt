@@ -1,0 +1,37 @@
+2:"$Sreact.fragment"
+3:"/dtn-client-preview/_next/static/chunks/0nixhlvvqwyns.js"
+4:"/dtn-client-preview/_next/static/chunks/3ycpiwgnsdg12.js"
+5:"/dtn-client-preview/_next/static/chunks/3c7-kzs4hc7wc.js"
+6:"/dtn-client-preview/_next/static/chunks/0yg6vzhlaw1z2.js"
+7:"/dtn-client-preview/_next/static/chunks/3e78edpnkopue.js"
+8:"/dtn-client-preview/_next/static/chunks/1ehx0guhdwmk4.js"
+9:"/dtn-client-preview/_next/static/chunks/11rwrxnj5t3za.js"
+a:I[28576,["$3","$4","$5","$6","$7","$8","$9"],"AuthCard"]
+b:I[22016,["$3","$4","$5","$6","$7","$8","$9"],""]
+f:I[39756,["$3","$4","$5","$6","$7","$8"],"default"]
+10:I[37457,["$3","$4","$5","$6","$7","$8"],"default"]
+14:"/dtn-client-preview/_next/static/chunks/3kcuv4rr1p6-l.js"
+15:I[4911,["$3","$4","$5","$6","$7","$8","$9","$14"],"AccountProfile"]
+16:I[97367,["$3","$4","$5","$6","$7","$8"],"OutletBoundary"]
+17:"$Sreact.suspense"
+1a:"ViewportBoundary"
+1b:I[97367,["$3","$4","$5","$6","$7","$8"],"$1a"]
+1c:"MetadataBoundary"
+1d:I[97367,["$3","$4","$5","$6","$7","$8"],"$1c"]
+1e:I[27201,["$3","$4","$5","$6","$7","$8"],"IconMark"]
+d:X
+12:X
+12:C
+13:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","$L15",null,{}],[["$","script","script-0",{"src":"/dtn-client-preview/_next/static/chunks/3kcuv4rr1p6-l.js","async":true}]],["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]]}],"p":"$@19","v":null,"s":"$d"}}]]
+e:[["children",{"s":"profile","h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$Lf",null,{"parallelRouterKey":"children","template":["$","$L10",null,{}]}]]}],"p":"$@11","v":"$12","s":"$d"},"c":"$Q13"}]]
+1:[["children",{"s":"account","h":64,"d":{"r":["$","$2","c",{"children":[[["$","script","script-0",{"src":"/dtn-client-preview/_next/static/chunks/11rwrxnj5t3za.js","async":true}]],["$","$La",null,{"title":"Accounts are disabled in this preview","intro":"This is a read-only preview of the website with demo content. Signing in, registering and account pages work on the live site only.","children":["$","div",null,{"className":"flex flex-col gap-3 text-body","data-preview-accounts-disabled":true,"children":[["$","p",null,{"className":"text-muted","children":"You can still browse every news page, and the Academy shows its learner pages as the demo learner."}],["$","div",null,{"className":"flex flex-wrap gap-3","children":[["$","$Lb",null,{"href":"/","className":"inline-flex min-h-11 items-center rounded-button bg-brand px-5 font-semibold text-surface hover:bg-brand-strong","children":"Go to the homepage"}],["$","a",null,{"href":"https://amal-davis.github.io/dtn-client-preview/academy/learn/","className":"inline-flex min-h-11 items-center rounded-button border border-border px-5 font-semibold text-ink hover:border-ink","children":"Academy demo learner"}]]}]]}]}]]}],"p":"$@c","v":null,"s":"$d"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#050e1a"}]]}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Profile | Digital Truth News"}],["$","meta","1",{"name":"description","content":"Your Digital Truth News Network account."}],["$","meta","2",{"name":"application-name","content":"Digital Truth News Network 24/7"}],["$","link","3",{"rel":"manifest","href":"/dtn-client-preview/manifest.webmanifest"}],["$","meta","4",{"name":"robots","content":"noindex, nofollow"}],["$","meta","5",{"property":"og:title","content":"Profile | Digital Truth News"}],["$","meta","6",{"property":"og:description","content":"Your Digital Truth News Network account."}],["$","meta","7",{"property":"og:image","content":"https://amal-davis.github.io/dtn-client-preview/brand/default-share.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Profile | Digital Truth News"}],["$","meta","12",{"name":"twitter:description","content":"Your Digital Truth News Network account."}],["$","meta","13",{"name":"twitter:image","content":"https://amal-davis.github.io/dtn-client-preview/brand/default-share.jpg"}],["$","link","14",{"rel":"icon","href":"/dtn-client-preview/favicon.ico?v=b2c10a5016","sizes":"16x16 32x32 48x48"}],["$","link","15",{"rel":"icon","href":"/dtn-client-preview/icons/icon-32.png?v=b2c10a5016","sizes":"32x32","type":"image/png"}],["$","link","16",{"rel":"icon","href":"/dtn-client-preview/icons/icon-192.png?v=b2c10a5016","sizes":"192x192","type":"image/png"}],["$","link","17",{"rel":"apple-touch-icon","href":"/dtn-client-preview/icons/apple-touch-icon.png?v=b2c10a5016","sizes":"180x180","type":"image/png"}],["$","$L1e","18",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1f","v":null,"s":"$d"}},"a":"$@20","u":"$@21","b":"X6GDVS_dH7zCosJlO4jHf"}
+18:null
+21:true
+d:30
+d:C
+20:0
+11:"$undefined"
+c:"$undefined"
+1f:"$undefined"
+19:"$undefined"
